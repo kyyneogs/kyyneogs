@@ -1,4 +1,7 @@
 ### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyyneogs&count_bg=%2379C83D&title_bg=%23FF6E00&icon=affinitypublisher.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![vzgqf53kwvt01](https://github.com/kyyneogs/kyyneogs/assets/121914754/18ecb9ac-957d-43ba-b8d0-5d3e70ded8f1)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5seon)](https://solved.ac/s5seon/)
 <!--
 **kyyneogs/kyyneogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
