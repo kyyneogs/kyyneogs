@@ -1,6 +1,5 @@
 ### Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyyneogs&count_bg=%2379C83D&title_bg=%23FF6E00&icon=affinitypublisher.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s5seon)](https://solved.ac/s5seon/)
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyyneogs&langs_count=4&layout=compact&theme=dark)](https://github.com/kyyneogs/kyyneogs)﻿ -->
 <!--
 **kyyneogs/kyyneogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
